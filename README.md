@@ -6,9 +6,11 @@ App1 is a basic Flight's page app
 App2 is a basic Hotel's page app
 
 App1 provides App2 with its Navigation component and routes
+
 App1 consumes the routes of App2
 
 App2 provides App1 with its routes
+
 App2 consumes the routes of App1 and the Navigation Component of App1
 
 In order to setup locally
